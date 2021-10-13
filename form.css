@@ -1,0 +1,37 @@
+@charset "UTF-8";
+body{
+  width:800px;
+  margin:0 auto;
+}
+form{
+  border:solid 1px #e1e6ed;
+  padding: 50px;
+  margin-top: 10px;
+}
+p{
+  margin-top: 30px;
+}
+.must{
+  font-size: 13px;
+  color:red;
+  display:inline-block;
+  background-color:pink;
+}
+.input{
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  width:100%;
+}
+.send{
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  display: block;
+  background-color: #a9ceec;
+  width: 100%;
+  margin:10px auto;
+  display:block;
+  padding: 10px 0;
+}
